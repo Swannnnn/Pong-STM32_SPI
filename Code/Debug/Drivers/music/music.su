@@ -1,0 +1,7 @@
+../Drivers/music/music.c:5:6:buzzer_play_note	16	static
+../Drivers/music/music.c:11:6:buzzer_mute	4	static
+../Drivers/music/music.c:16:6:buzzer_play_note_by_name	24	static
+../Drivers/music/music.c:94:19:init_music	16	static
+../Drivers/music/music.c:118:6:play_music	16	static
+../Drivers/music/music.c:132:6:set_music	16	static
+../Drivers/music/music.c:137:10:get_partition_sz	16	static

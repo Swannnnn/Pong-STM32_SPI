@@ -1,0 +1,5 @@
+../Drivers/Timer/timer.c:15:6:timer_interrupt	8	static
+../Drivers/Timer/timer.c:23:19:timer_init	16	static
+../Drivers/Timer/timer.c:41:6:set_interrupt_launcher	16	static
+../Drivers/Timer/timer.c:46:6:start_timer	4	static
+../Drivers/Timer/timer.c:48:6:stop_timer	4	static
